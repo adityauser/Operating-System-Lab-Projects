@@ -1,12 +1,12 @@
-OS Project - Page Replacement Algorithms
+Page Replacement Algorithms
 ========================================
 
-To compile -
+Compile -
 -------------
 
 `gcc -o main main.c fifo.c lru.c optimal.c`
 
-To run
+Run
 ------
 
 `. /main [frame_size] [list of page numbers]`
