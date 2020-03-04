@@ -8,3 +8,8 @@ Implementation of OS lab experiments on Linux platform using C++/C language.
 * <a href="https://github.com/adityauser/Operating-System-Lab-Projects/blob/master/Lab/SchedulingAlgorithms.c">CPU Scheduling Algorithms</a>: Simulating FCFS, SJF and Round Robin CPU scheduling algorithms.
 * <a href="https://github.com/adityauser/Operating-System-Lab-Projects/blob/master/Lab/MultilevelQueueScheduling.c">Multi-level Queue Scheduling Algorithm</a>: Simulation of multi-level queue scheduling algorithm, consedering system process are to be given higher priority than user processes.
 * <a href="https://github.com/adityauser/Operating-System-Lab-Projects/blob/master/Lab/DiningPhilo.c">Dining-Philosophers</a>: Simulation for Dining-Philosophers problem.
+
+
+## Project
+In the project I have implemented various page replacement algorithm like <b>Optimal Page Replacement algorithm</b>, <b>Least recent used (LRU) page replacement algorithm</b> and <b>First in first out</b>. <br>
+Here is the <a href="https://github.com/adityauser/Operating-System-Lab-Projects/blob/master/Page Replacement Algorithms">link</a> to the project.
